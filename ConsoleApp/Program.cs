@@ -31,10 +31,13 @@ namespace ConsoleApp
             }
             return true;
         }
+        /// <summary>
+        /// 进行判断
+        /// </summary>
         void enumerate()
         {
             int c;
-           // bool success2;
+            //bool success1;
             var press = new int[1,7];
             for ( c = 1; c < 7; c++)
             {
