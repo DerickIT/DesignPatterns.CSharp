@@ -31,6 +31,9 @@ namespace ConsoleApp
             }
             return true;
         }
+        /// <summary>
+        /// 进行判断
+        /// </summary>
         void enumerate()
         {
             int c;
