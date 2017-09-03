@@ -37,7 +37,7 @@ namespace ConsoleApp
         void enumerate()
         {
             int c;
-            bool success;
+            //bool success;
             var press = new int[1,7];
             for ( c = 1; c < 7; c++)
             {
