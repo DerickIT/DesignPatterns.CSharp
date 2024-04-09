@@ -1,11 +1,11 @@
-# 本仓库内容为学习总结常用的设计模式
+# The content of this repository is a study summary of commonly used design patterns
 
-### 创建型
-- 单例模式
-- 简单工厂模式
-- 工厂方法模式
-- 原型模式
-- 建造者模式
-- 抽象工厂模式
+### Creational Patterns
+- Singleton Pattern
+- Simple Factory Pattern
+- Factory Method Pattern
+- Prototype Pattern
+- Builder Pattern
+- Abstract Factory Pattern
 
-### 行为型
+### Behavioral Patterns
